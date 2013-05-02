@@ -1,4 +1,4 @@
-CyanogenMod
+Mad-Cow-Rom
 ===========
 
 Submitting Patches
